@@ -13,4 +13,7 @@
 
 ## **Atividade 1 - 02/09/2026**
 
+*Vídeo: https://www.youtube.com/watch?v=mtcZ7IGWkLs
+
+
 ## **Algoritmo Genético (AG) para resolver um problema prático**
