@@ -1,6 +1,4 @@
 """
-visualizacao.py
-===============
 Módulo de geração e exportação de gráficos de alta qualidade para o projeto K-Means.
 Produz visualizações para métricas de validação e interpretação dos grupos.
 """

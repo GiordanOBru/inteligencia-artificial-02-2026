@@ -1,6 +1,4 @@
 """
-analise.py
-==========
 Módulo de análise descritiva e mercadológica dos clusters gerados pelo K-Means.
 Calcula estatísticas de consumo e cruza com canais e regiões geográficas.
 """

@@ -1,6 +1,4 @@
 """
-modelo.py
-=========
 Módulo de modelagem matemática do algoritmo K-Means.
 Contém a busca do número ideal de clusters através do Coeficiente de Silhueta
 e o treinamento do modelo definitivo.

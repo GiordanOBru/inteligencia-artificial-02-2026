@@ -1,6 +1,4 @@
 """
-main.py
-=======
 Ponto de entrada principal do projeto de Agrupamento K-Means no Wholesale Customers.
 Orquestra o pipeline completo através dos módulos especializados.
 """
