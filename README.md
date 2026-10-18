@@ -20,5 +20,4 @@
 ## **Atividade 2 - 16/10/2026**
 ## **Agrupamento K-Means no Dataset Wholesale Customers com Coeficiente de Silhueta**
 
-*Vídeo:-* 
-
+*Vídeo:-* https://youtu.be/gSW6I6pmNAc
