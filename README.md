@@ -21,3 +21,8 @@
 ## **Agrupamento K-Means no Dataset Wholesale Customers com Coeficiente de Silhueta**
 
 *Vídeo:-* https://youtu.be/gSW6I6pmNAc
+
+## **Atividade 3 - 22/11/2026**
+## **Aprendizado supervisionado - Regressao com Rede Neural MLP no Dataset Video Game Sales**
+
+*Vídeo:-* 
