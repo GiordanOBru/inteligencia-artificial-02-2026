@@ -25,4 +25,4 @@
 ## **Atividade 3 - 22/11/2026**
 ## **Aprendizado supervisionado - Regressao com Rede Neural MLP no Dataset Video Game Sales**
 
-*Vídeo:-* 
+*Vídeo:-* https://youtu.be/2EAT2hGZjuY
